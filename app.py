@@ -20,7 +20,7 @@ def predict():
     
     #output = round(prediction[0], 2)
 
-    outputt = prediction-6.5
+    outputt = prediction
     output=round(outputt[0],2)
 
 
